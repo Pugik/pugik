@@ -31,7 +31,15 @@ I enjoy building interesting projects and learning new technologies.
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/><br>
-      <sub><b>HTML5</b></sub>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="32" height="32"/><br>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="32" height="32"/><br>
+      <sub><b>C# (DLLs)</b></sub>
     </td>
   </tr>
 </table>
@@ -80,6 +88,10 @@ I enjoy building interesting projects and learning new technologies.
       <sub><b>Hammer Editor</b></sub>
     </td>
     <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Blockbench_icon.png/960px-Blockbench_icon.png" alt="blockbench" width="32" height="32"/><br>
+      <sub><b>Blockbench</b></sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="32" height="32"/><br>
       <sub><b>Git</b></sub>
     </td>
@@ -113,5 +125,7 @@ I enjoy building interesting projects and learning new technologies.
     </td>
   </tr>
 </table>
+
+<img src="https://cdn.7tv.app/emote/01F6WP22CR0004YCK11WAVZHEW/4x.webp"/><br>
 
 <!-- icons: https://devicon.dev -->
