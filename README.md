@@ -30,14 +30,6 @@ I enjoy building interesting projects and learning new technologies.
       <sub><b>Python</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/><br>
-      <sub><b>HTML</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="32" height="32"/><br>
-      <sub><b>CSS</b></sub>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="32" height="32"/><br>
       <sub><b>C# (DLLs)</b></sub>
     </td>
