@@ -5,8 +5,6 @@ I enjoy building interesting projects and learning new technologies.
 
 <img src="https://cdn.7tv.app/emote/01GN3XPVF800094VWDRV1XD5JW/4x.png"/><br>
 
----
-
 ### 🔧 Languages
 
 <table>
@@ -37,8 +35,6 @@ I enjoy building interesting projects and learning new technologies.
     </td>
   </tr>
 </table>
-
----
 
 ### 🧩 Game Engines & Game Environments
 
@@ -75,8 +71,6 @@ I enjoy building interesting projects and learning new technologies.
   </tr>
 </table>
 
----
-
 ### 🛠 Tools & Software
 
 <table>
@@ -103,8 +97,6 @@ I enjoy building interesting projects and learning new technologies.
     </td>
   </tr>
 </table>
-
----
 
 ### 📘 Currently Learning
 <table>
