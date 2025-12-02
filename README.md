@@ -99,10 +99,6 @@ I enjoy building interesting projects and learning new technologies.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32"/><br>
       <sub><b>Node.js</b></sub>
     </td>
-    <td align="center">
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/7824715/softether-vpn.png" alt="softether" width="32" height="32"/><br>
-      <sub><b>SoftEther</b></sub>
-    </td>
   </tr>
 </table>
 
