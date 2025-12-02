@@ -92,10 +92,6 @@ I enjoy building interesting projects and learning new technologies.
       <sub><b>Git</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="32" height="32"/><br>
-      <sub><b>VSCode</b></sub>
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32"/><br>
       <sub><b>Node.js</b></sub>
     </td>
