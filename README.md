@@ -104,7 +104,7 @@ I enjoy building interesting projects and learning new technologies.
     <td align="center" style="padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32"/><br>
       C#<br>
-      <img src="https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=006600"/>
+      <img src="https://geps.dev/progress/25?dangerColor=800000&warningColor=ff9900&successColor=006600"/>
     </td>
     <td align="center" style="padding:10px;">
       <img src="https://kassa.bifit.com/wiki/images/thumb/7/72/Product-1c.svg/2048px-Product-1c.svg.png" width="32" height="32"/><br>
@@ -113,7 +113,5 @@ I enjoy building interesting projects and learning new technologies.
     </td>
   </tr>
 </table>
-
-<img src="https://cdn.7tv.app/emote/01F6WP22CR0004YCK11WAVZHEW/4x.webp"/><br>
 
 <!-- icons: https://devicon.dev -->
