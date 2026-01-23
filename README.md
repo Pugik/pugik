@@ -49,7 +49,7 @@ I enjoy building interesting projects and learning new technologies.
       <sub><b>Source Engine</b></sub>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Garry%27s_Mod_logo.svg/512px-Garry%27s_Mod_logo.svg.png?20230223195930" alt="gmod" width="32" height="32"/><br>
+      <img src="https://files.facepunch.com/garry/822e60dc-c931-43e4-800f-cbe010b3d4cc.png" alt="gmod" width="32" height="32"/><br>
       <sub><b>Garry's Mod</b></sub>
     </td>
     <td align="center">
