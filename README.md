@@ -40,14 +40,33 @@ I enjoy building interesting projects and learning new technologies.
   </tr>
 </table>
 
-### 🧩 Game Engines & Game Environments
+### 🧩 Game Engines
 
 <table>
   <tr>
     <td align="center">
       <img src="https://developer.valvesoftware.com/w/images/thumb/1/10/Icon-Source.png/64px-Icon-Source.png" alt="source" width="32" height="32"/><br>
-      <sub><b>Source Engine</b></sub>
+      <sub><b>Source Engine / SDK 2013</b></sub>
     </td>
+    <td align="center">
+      <img src="https://developer.valvesoftware.com/w/images/thumb/5/52/Icon-Source_2.png/64px-Icon-Source_2.png" alt="source" width="32" height="32"/><br>
+      <sub><b>Source Engine 2 / S&box</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqTVgOXfgV1tT-bO9V5OGmo1h-NJOWJRoNQ&s" alt="enfusion" width="32" height="32"/><br>
+      <sub><b>Enfusion Engine</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="32" height="32"/><br>
+      <sub><b>Unity</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🧩 Game Environments
+
+<table>
+  <tr>
     <td align="center">
       <img src="https://files.facepunch.com/garry/822e60dc-c931-43e4-800f-cbe010b3d4cc.png" alt="gmod" width="32" height="32"/><br>
       <sub><b>Garry's Mod</b></sub>
@@ -57,7 +76,7 @@ I enjoy building interesting projects and learning new technologies.
       <sub><b>Left 4 Dead 2</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/512/dota.png" alt="tmodloader" width="32" height="32"/><br>
+      <img src="https://img.icons8.com/color/512/dota.png" alt="dota2custom" width="32" height="32"/><br>
       <sub><b>Dota 2</b></sub>
     </td>
     <td align="center">
@@ -65,12 +84,12 @@ I enjoy building interesting projects and learning new technologies.
       <sub><b>Arma Reforger</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn2.steamgriddb.com/icon/80a3f634893bdf5d63c679e5f99182b2/32/256x256.png" alt="tmodloader" width="32" height="32"/><br>
+      <img src="https://cdn2.steamgriddb.com/icon/80a3f634893bdf5d63c679e5f99182b2/32/256x256.png" alt="s7box" width="32" height="32"/><br>
       <sub><b>tModloader</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="32" height="32"/><br>
-      <sub><b>Unity</b></sub>
+      <img src="https://sbox.game/favicon.ico" alt="tmodloader" width="32" height="32"/><br>
+      <sub><b>S&box</b></sub>
     </td>
   </tr>
 </table>
