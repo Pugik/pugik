@@ -79,12 +79,16 @@
       <sub><b>Arma Reforger</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn2.steamgriddb.com/icon/80a3f634893bdf5d63c679e5f99182b2/32/256x256.png" alt="s7box" width="32" height="32"/>
+      <img src="https://cdn2.steamgriddb.com/icon/80a3f634893bdf5d63c679e5f99182b2/32/256x256.png" alt="tmodloader" width="32" height="32"/>
       <sub><b>tModloader</b></sub>
     </td>
     <td align="center">
-      <img src="https://sbox.game/favicon.ico" alt="tmodloader" width="32" height="32"/>
+      <img src="https://sbox.game/favicon.ico" alt="s7box" width="32" height="32"/>
       <sub><b>S&box</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/3932890/807fdb2b66eacb5e550b9043197cb7fd2b11b505.jpg" alt="escapefromtarkovspt" width="32" height="32"/>
+      <sub><b>Escape From Tarkov</br>SPT</b></sub>
     </td>
   </tr>
 </table>
